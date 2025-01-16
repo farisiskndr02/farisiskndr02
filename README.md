@@ -31,7 +31,7 @@
 ---
 
 ### ⚡ Favorite Quote  
-> "The best way to predict the future is to create it." – Abraham Lincoln
+> "Don't find fault, find a remedy. If you think you can do a thing or think you can't do a thing, you're right." – Henry Ford
 
 
 
