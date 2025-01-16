@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Faris Iskandar
+# Hi there! 👋 I'm Faris Iskandar
 
 💻 **IT Support & Programmer**  
 🌍 Based in Johor Bahru, Malaysia  
@@ -8,7 +8,7 @@
 
 ## 🔧 What I Do  
 - **IT Support**: Resolving technical issues and ensuring systems run smoothly for users at land Office.  
-- **Programming**: Developing applications and improving operational efficiency with skills in PHP, JavaScript, Java, and MySQL.   
+- **Programming**: Developing applications and improving operational efficiency with skills in PHP, JavaScript, and MySQL.   
 
 ---
 
