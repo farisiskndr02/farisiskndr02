@@ -6,12 +6,6 @@
 
 ---
 
-## 🔧 What I Do  
-- **IT Support**: Resolving technical issues and ensuring systems run smoothly for users at land Office.  
-- **Programming**: Developing applications and improving operational efficiency with skills in PHP, JavaScript, and MySQL.   
-
----
-
 ## 🌱 What I’m Currently Learning  
 - Diving deeper into **AWS certifications** to explore cloud-based solutions.  
 - Experimenting with **Flutter** for app development, currently working on a **Parental Control App** project.  
