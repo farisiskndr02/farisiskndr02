@@ -18,10 +18,10 @@
 - **Remote Access Tools**: PuTTY, WinSCP, AnyDesk
 
 ---
-
+<!--
 ## 🤝 Let’s Connect  
 - 📧 m.faris.isk@gmail.com
-
+-->
 ---
 
 ### ⚡ Favorite Quote  
