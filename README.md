@@ -21,9 +21,9 @@
 <!--
 ## 🤝 Let’s Connect  
 - 📧 m.faris.isk@gmail.com
--->
----
 
+---
+-->
 ### ⚡ Favorite Quote  
 > "Don't find fault, find a remedy. If you think you can do a thing or think you can't do a thing, you're right." – Henry Ford
 
